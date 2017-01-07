@@ -1,3 +1,7 @@
+# THIS IS A TEMPORARY PACKAGE
+# THIS PACKAGE WILL BE DEPRECATED ONCE THIS PR GETS MERGED IN
+# https://github.com/Pephers/react-autofill/pull/2
+
 React Autofill
 ==============
 A component that polyfills a change event in Safari when input fields are
